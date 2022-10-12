@@ -14,15 +14,13 @@ SQL
 
 ## API Responses
 
-
-
-Path	HTTP Verb	Action
-/people/	GET	index
-/people/new	GET	new
-/people	POST	create
-/people/:id	GET	show
-/people/:id
-PUT	update
+| Path        | HTTP Verb | Action |
+| ----------- | --------- | ------ |
+| /people     | GET       | index  |
+| /people     | POST      | create |
+| /people/:id | GET       | show   |
+| /people/:id | PUT       | update |
 
 - /people => will get personId, name, age and houseID
+
 ## API Routes
