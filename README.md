@@ -8,11 +8,7 @@ SQL
 
 ![schema](<./personid%20(int).png>)
 
-## API Requests
-
-## API Routes
-
-## API Responses
+## API
 
 | Path        | HTTP Verb | Action |
 | ----------- | --------- | ------ |
@@ -22,5 +18,3 @@ SQL
 | /people/:id | PUT       | update |
 
 - /people => will get personId, name, age and houseID
-
-## API Routes
