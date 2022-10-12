@@ -2,7 +2,11 @@
 
 ## Database
 
+SQL
+
 ## Schema
+
+![schema](<./personid%20(int).png>)
 
 ## API Requests
 
